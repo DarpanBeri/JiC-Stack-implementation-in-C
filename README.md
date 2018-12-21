@@ -5,7 +5,8 @@
     Prog1_2.h:
         Header file.
     Prog1_2.c:
-        Has MakeStack, Push, Pop and Grow functionality. You can play with it if you scroll down and remove the comments from line 43-53.
+        Has MakeStack, Push, Pop and Grow functionality. 
+        You can play with it if you scroll down and remove the comments from line 43-53.
     Prog1_3.c:
         Driver program which combines Prog1_2.c's features with being running from command line.
 
